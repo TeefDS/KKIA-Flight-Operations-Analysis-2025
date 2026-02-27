@@ -21,7 +21,6 @@ This project analyzes **153,308 flight records** to examine traffic distribution
 [King Khalid International Airport Flights Dataset](https://www.kaggle.com/datasets/mohammedalsubaie/king-khalid-international-airport-flights-dataset)
 
 **Author:** Mohammed AlSubaie (Data Engineer)
-https://www.kaggle.com/datasets/mohammedalsubaie/king-khalid-international-airport-flights-dataset
 
 ## Tools Used
 - PySpark (data cleaning and transformation)
@@ -29,7 +28,7 @@ https://www.kaggle.com/datasets/mohammedalsubaie/king-khalid-international-airpo
 - DAX (measures)
 
 ## How to Run
-1. Open [Open Notebook](KKIA_Flight_Data_Analysis.ipynb) in Jupyter or Google Colab.
+1. Open the [Notebook](https://github.com/TeefDS/KKIA-Flight-Operations-Analysis-2025/blob/main/KKIA_Flight_Data_Analysis.ipynb) in Jupyter or Google Colab.
 2. Ensure PySpark is installed.
 3. Run all cells to reproduce the analysis and export dataset for dashboarding.
 
