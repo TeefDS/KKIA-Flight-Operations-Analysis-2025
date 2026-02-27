@@ -16,7 +16,8 @@ This project analyzes 153K+ flight records to understand traffic distribution, p
 - Top airlines by volume: Saudi Arabian, flynas, flyadeal
 
 ## Dataset Source
-Public dataset from Kaggle (https://www.kaggle.com/datasets/mohammedalsubaie/king-khalid-international-airport-flights-dataset/discussion?sort=hotness)
+Public dataset from Kaggle:  
+https://www.kaggle.com/datasets/mohammedalsubaie/king-khalid-international-airport-flights-dataset
 
 ## Tools Used
 - PySpark (data cleaning and transformation)
