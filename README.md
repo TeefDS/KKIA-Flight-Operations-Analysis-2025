@@ -12,24 +12,24 @@ This project analyzes **153,308 flight records** to examine traffic distribution
 - **International flights:** 73,895 (48.2%)
 
 ## Key Insights
-- Peak traffic occurs between **16:00–23:00**, with the highest volume at **18:00**.
-- **July and August** represent the busiest months.
-- Domestic and international traffic are closely balanced.
+- Peak traffic occurs between **16:00–23:00**, with the highest volume at **18:00**.  
+- **July and August** represent the busiest months.  
+- Domestic and international traffic are closely balanced.  
 - Saudi Arabian Airlines, flynas, and flyadeal dominate overall operations.
 
-## Dataset Source
-[King Khalid International Airport Flights Dataset](https://www.kaggle.com/datasets/mohammedalsubaie/king-khalid-international-airport-flights-dataset)
+## Dataset
+**Source:** [King Khalid International Airport Flights Dataset](https://www.kaggle.com/datasets/mohammedalsubaie/king-khalid-international-airport-flights-dataset)  
 
 **Author:** Mohammed AlSubaie (Data Engineer)
 
 ## Tools Used
-- PySpark (data cleaning and transformation)
-- Power BI (dashboard development)
+- PySpark (data cleaning and transformation)  
+- Power BI (dashboard development)  
 - DAX (measures)
 
 ## How to Run
-1. Open the [Notebook](https://github.com/TeefDS/KKIA-Flight-Operations-Analysis-2025/blob/main/KKIA_Flight_Data_Analysis.ipynb) in Jupyter or Google Colab.
-2. Ensure PySpark is installed.
+1. Open the [Notebook](https://github.com/TeefDS/KKIA-Flight-Operations-Analysis-2025/blob/main/KKIA_Flight_Data_Analysis.ipynb) in Jupyter or Google Colab.  
+2. Ensure PySpark is installed.  
 3. Run all cells to reproduce the analysis and export dataset for dashboarding.
 
 ## Dashboard Preview
